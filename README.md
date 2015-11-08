@@ -1,0 +1,2 @@
+# githarkka
+Harjoitus ohjelmistotuotantoon
