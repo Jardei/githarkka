@@ -24,12 +24,22 @@ määrittämistäkin  "git push origin master" komennolla
 9) stash siirtää tehdyt muutokset väliaikaisesti pois pääkansiosta jolloin se palautuu edelliseen committiin.
 
 10) head on uusin commit
+
 11) git diff tulostaa uusimman commitin ja staging areassa olevan tiedoston eron consoleen
+
 12) git resetillä voi poistaa tiedostoja pois stating arealta jolloin tiedostoa ei enää verrata repoon tai uploadta sinne
+
 13) checkout palauttaa tiedoston uusimmassa commitissa olevaan tilaan, eli poistaa uusimmat muutokset
+
 14) gitissä voi tehdä oman haaran samaan projektiin, esim devaus branch ja live branch, live branch pysyy samana vaikka devausbranchii tehtäisiin muutoksia, mergellä voidaan siirtää devausbranchin tiedostos live branchiin
+
 15) git checkout <branchin nimi>
+
 16) poistaa koko tiedoston levyltä ja ilmoittaa että seuraavan commitin yhteydessä poista se myös reposta
+
 17) mitkä tiedostot poistettiin ja mitkä päivitettyyn master branchissä
+
 18) git branch -d <branchin nimi>
+
 19) pushaa muutokset repositorioon
+
